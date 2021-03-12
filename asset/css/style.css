@@ -1,0 +1,145 @@
+*{
+	box-sizing:border-box;
+}
+.logo{	
+	
+}
+
+.cname{
+	background-color:white;
+	color:#FF69B4 ;
+	height:150px;
+	text-align:center;
+	padding-top:60px;
+	font-size:40px;
+	font-weight:bold;
+	
+}
+
+.menu{
+	border-style:solid;
+	margin-top:5px;
+	height:50px;
+	text-align:center;
+	padding-top:15px;
+	background-color:white;
+	
+}
+
+.menu a{
+	color:#FF69B4 ;
+	text-decoration:none;
+	display:block;
+	font-size:20px;
+	font-weight:bold;
+}
+.banner{
+	margin-top:5px;
+	font-style: oblique;
+	padding-top:70px;
+	
+}
+.home h2 {
+    text-align: center;
+}
+
+.homeimg img{
+	
+	padding-left:25px;
+	width:200px;
+}
+
+.footer{
+	border-style:solid;
+	margin-top:5px;
+	height:200px;
+	text-align:center;
+	padding-top:50px;
+	color:#FF69B4 ;
+	font-size:25px;
+	font-weight:bold;
+	background-color:white;
+}
+.footer a{
+	color:#FF69B4 ;
+	text-decoration:none;
+}
+
+.banner{
+	background-image:url('../photos/banner.jpg');
+	
+	margin-top:5px;
+	margin-bottom:10px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	opacity:0.8;
+	height:250px;
+	
+	text-align:center;
+	color:#black;
+	padding-top:70px;
+	font-size:20px;
+	padding-bottom:10px;
+}
+/**********************Abuot_us page start***********************/
+.about_us p{
+  font-family: "Georgia", Times, serif;
+  
+}
+
+
+/**********************Abuot_us page end***********************/
+
+/**********************Services page start***********************/
+
+.service:hover{
+	background-color:#FBB0D6 ;
+	border-color:black;
+}
+.service:hover h1{
+	color:white;
+}
+
+
+
+
+.service{
+	text-align:justify;
+	
+	Border-color:#FF69B4;
+	margin-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+	margin-top:5px;
+	margin-left:10px;
+	background-color:#F9F7F6;
+	border-radius:5px;
+	
+}
+
+.service h1{
+	text-align:center;
+	color:#EE8E05;
+	
+}
+
+.service h3{
+	text-align:center;
+	
+}
+.service p{
+	text-align:justify;
+}
+/**************************Services Page End**********************/
+
+/**********************Contact page start***********************/
+.formfield {
+    width: 100%;
+    padding: 5px;
+    margin-top: 10px;
+	background-color:#FBE5E5
+}
+
+.inputcol{
+	width:40%;
+}
